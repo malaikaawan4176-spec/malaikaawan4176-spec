@@ -4,18 +4,37 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=orange&height=200&section=header&text=QA%20Engineer%20%7C%20Project%20Lead&fontSize=48&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
-## Professional Profile
-Detail-oriented **Quality Assurance Engineer** with a strong background in **Information Technology** and practical experience in **Project Leadership**. Adept at ensuring software quality, managing testing processes, and coordinating teams to deliver reliable and high-quality solutions aligned with business goals and international standards.
+<p align="center">
+  <strong>Quality Assurance • Project Leadership • Process Improvement</strong>
+</p>
 
 ---
 
-## Technical Expertise
+## Professional Profile
+Detail-oriented **Quality Assurance Engineer** with a solid foundation in **Information Technology** and proven experience in **Project Leadership**. Experienced in managing QA workflows, validating business requirements, and supporting cross-functional teams to deliver reliable, high-quality software solutions aligned with international standards.
 
-| Core Area | Skills & Tools |
-|---------|---------------|
-| **Quality Assurance** | Manual Testing, Regression Testing, User Acceptance Testing (UAT), Bug Life Cycle Management |
-| **Project Management** | Agile & Scrum, SDLC, Sprint Planning, Team Coordination |
-| **Tools & Operations** | Jira, Trello, Requirement Analysis, Risk Tracking |
+---
+
+## Areas of Expertise
+
+### Quality Assurance
+- Manual Testing  
+- Regression Testing  
+- User Acceptance Testing (UAT)  
+- Test Case & Test Scenario Design  
+- Bug Reporting & Life Cycle Management  
+
+### Project & Process Management
+- Agile / Scrum Methodologies  
+- Software Development Life Cycle (SDLC)  
+- Sprint Planning & Execution  
+- Team Coordination & Progress Tracking  
+
+### Tools & Platforms
+- Jira  
+- Trello  
+- Documentation & Requirement Analysis  
+- Risk Identification & Mitigation  
 
 ---
 
@@ -25,32 +44,48 @@ Detail-oriented **Quality Assurance Engineer** with a strong background in **Inf
 **Project Lead & QA Specialist**  
 *October 2025 – Present*
 
-- Leading quality assurance activities for international clients  
-- Managing sprint planning and task tracking using Jira  
-- Ensuring quality standards, timelines, and smooth cross-team collaboration  
+- Leading end-to-end QA activities for international client projects  
+- Planning and managing sprints while ensuring delivery timelines  
+- Coordinating between QA, development, and management teams  
+- Maintaining quality benchmarks and improving process efficiency  
 
 ---
 
 ## Education
 **Bachelor of Science in Information Technology**  
 University of Education, Lahore  
-CGPA: **3.35 / 4.00**
+**CGPA:** 3.35 / 4.00
+
+---
+
+## Professional Competencies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Quality%20Assurance-Expert-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-Experienced-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project%20Leadership-Professional-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jira-Advanced-white?style=flat-square&logo=jira" />
+  <img src="https://img.shields.io/badge/Trello-Advanced-white?style=flat-square&logo=trello" />
+  <img src="https://img.shields.io/badge/Manual%20Testing-Strong-orange?style=flat-square" />
+</p>
 
 ---
 
 ## Languages
-- English (Professional Working Proficiency)  
-- Urdu (Native)  
-- Punjabi (Native)
+- English — Professional Working Proficiency  
+- Urdu — Native  
+- Punjabi — Native  
 
 ---
 
-## GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub Streak" />
-</p>
+## What I Focus On
+- Delivering stable and user-ready software  
+- Improving QA and sprint workflows  
+- Bridging communication between technical and non-technical stakeholders  
+- Ensuring quality is built into every stage of development  
 
 ---
 
